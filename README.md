@@ -1,7 +1,5 @@
 # Phone-Sales-Analysis-2024
 
-### HR Workforce Analytics Dashboard
-
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
