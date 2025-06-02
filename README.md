@@ -7,6 +7,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Findings](#results/Findings)
 - [Recommendation](#recommendation)
+- [Conclusion](#Conclusion)
 
 
 ![Screenshot 2025-06-02 211734](https://github.com/user-attachments/assets/2f25e4b0-3c24-4794-90c5-54b95e07280a)
@@ -123,3 +124,9 @@ Based on the Phone Sales Dashboard analysis, several strategic recommendations c
 Furthermore, the correlation between age demographics and brand preference reveals that younger customers show a strong preference for Apple products, while Samsung appeals more to older groups. This insight can guide targeted marketing strategies based on age segmentation. UPI was the most used and profitable payment method, making it essential to optimize this transaction method across sales platforms. Additionally, the dashboard shows February had the highest monthly revenue, identifying seasonal peaks that can be leveraged for promotions.
 
 To enhance data storytelling and insight discovery, the dashboard features slicers for filtering by country, gender, month, payment method, and year. Future improvements could include deeper segmentation by device specifications (e.g., storage size) and integrating predictive analytics to forecast trends. These insights collectively support data-driven strategies for increasing revenue and customer satisfaction.
+
+
+ ### Conclusion
+
+In conclusion, the dashboard reveals key insights into regional performance, customer behavior, and brand preference. Leveraging these findings enables smarter marketing, optimized inventory, and strategic pricing. With interactive filters and clear trends, the analysis empowers data-driven decisions to boost sales, customer satisfaction, and long-term business growth.
+
