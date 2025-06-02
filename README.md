@@ -32,7 +32,7 @@ Employee Data: The data source is "Excel File" containing detailed records of Mo
 ### Tools
 
 - Excel
-- [Download here](https://drive.google.com/file/d/1NmWIPWQbNSl76H7AOyzHrS_dlo6o1gWx/view?usp=drivesdk)
+- [Download here](https://docs.google.com/spreadsheets/d/1Ekkknp05aRv1x77F-TT8PbmNNy8E_Y68/edit?usp=drivesdk&ouid=100434770633418079176&rtpof=true&sd=true)
 - Power Query - data cleaning and merging
 - Creating new column for calculations
 - Power BI - Creating reports
