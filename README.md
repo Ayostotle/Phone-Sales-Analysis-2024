@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
-- [Data source and Column](#data-source-and-column)
+- [Data source and Column Name](#data-source-and-column-Name)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Findings](#results/Findings)
 - [Recommendation](#recommendation)
