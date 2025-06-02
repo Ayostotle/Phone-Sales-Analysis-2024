@@ -46,15 +46,15 @@ In the initial data preparation phase, we performed the following task;
 
 Here are 10 key questions this Power BI project aims to answer:
 
-•	Which mobile brands and models are the top sellers overall and in specific countries or cities?
-•	How do sales numbers vary by storage size, color, or operating system (Android vs. iOS)?
-•	What is the typical customer profile — age group, gender — for different brands or models?
-•	How do sales and revenues break down across different sales channels (online, partner, in-store) and payment types?
-•	Are there noticeable differences in pricing and sales volume between regions or cities?
-•	Which countries or cities generate the highest total revenue and units sold?
-•	Are there patterns in customer demographics based on mobile brand, model, or price range?
-•	How does sales performance change month over month in 2024?
-•	Are there correlations between customer age groups and the type of devices they purchase (for example, younger customers preferring certain brands)?
+-	Which mobile brands and models are the top sellers overall and in specific countries or cities?
+-	How do sales numbers vary by storage size, color, or operating system (Android vs. iOS)?
+-	What is the typical customer profile — age group, gender — for different brands or models?
+-	How do sales and revenues break down across different sales channels (online, partner, in-store) and payment types?
+-	Are there noticeable differences in pricing and sales volume between regions or cities?
+-	Which countries or cities generate the highest total revenue and units sold?
+-	Are there patterns in customer demographics based on mobile brand, model, or price range?
+-	How does sales performance change month over month in 2024?
+-	Are there correlations between customer age groups and the type of devices they purchase (for example, younger customers preferring certain brands)?
 
 
 
