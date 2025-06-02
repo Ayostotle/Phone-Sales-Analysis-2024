@@ -7,10 +7,15 @@
 - [Project Overview](#project-overview)
 - [Limitation](#limitation)
 - [Recommendation](#recommendation)
-  
-![Screenshot 2025-05-11 213447](https://github.com/user-attachments/assets/5ea9c2bf-a5e0-48a8-9834-b3fc73b8f170)
 
-![Screenshot 2025-05-12 001628](https://github.com/user-attachments/assets/4a6a63c6-c692-4348-bfc7-5733ad67fc52)
+
+![Screenshot 2025-06-02 211734](https://github.com/user-attachments/assets/2f25e4b0-3c24-4794-90c5-54b95e07280a)
+![Screenshot 2025-06-02 193221](https://github.com/user-attachments/assets/a72626dd-a43c-4b96-93f2-f9328174d2f0)
+
+
+
+
+
 
 ### Project Overview
 
@@ -91,15 +96,15 @@ Here are 10 key questions this Power BI project aims to answer:
 
 ### Key Insights & Tools Used:
 
-. UPI was the most popular and highest revenue-generating payment method.
+ UPI was the most popular and highest revenue-generating payment method.
 
-. Young people showed a strong preference for Apple products.
+Young people showed a strong preference for Apple products.
 
-. Data was cleaned and transformed using Power Query.
+ Data was cleaned and transformed using Power Query.
 
-. A star schema was built to separate fact and dimension tables.
+ A star schema was built to separate fact and dimension tables.
 
-. Interactive slicers were added to filter data by country, month, gender, payment method, and year.
+ Interactive slicers were added to filter data by country, month, gender, payment method, and year.
 
  ### Recommendation
 
