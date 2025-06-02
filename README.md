@@ -3,9 +3,9 @@
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
-- [Data source and Column](#Data source and Column)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
-- [Results/Findings](#Results/Findings)
+- [Data source and Column](#data source and Column)
+- [Exploratory Data Analysis](#exploratory Data Analysis)
+- [Results/Findings](#results/Findings)
 - [Recommendation](#recommendation)
 
 
